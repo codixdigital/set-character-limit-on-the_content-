@@ -11,7 +11,7 @@ You only need to use one of the get_ syntaxes.
 For example, with the content:
 
 ```php
-<?php $ codix_content = get_the_content (); echo mb_strimwidth ($ codix_content, 0, 400, '...'); ?>
+<?php $codix_content = get_the_content (); echo mb_strimwidth ($codix_content, 0, 400, '...'); ?>
 ```
 
 This way, the string will be counted in 400 characters and then close with `[...]`.
@@ -19,4 +19,4 @@ This way, the string will be counted in 400 characters and then close with `[...
 Finally, just add a "read more" link at the end, pointing to the post or page.
 
 
-Como adicionar limite de caracteres no the_content() do wordpress.
+## Como adicionar limite de caracteres no the_content() do wordpress.
