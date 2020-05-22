@@ -19,7 +19,7 @@ This way, the string will be counted in 400 characters and then close with `[...
 Finally, just add a "read more" link at the end, pointing to the post or page.
 
 
-## Como adicionar limite de caracteres no the_content() do wordpress.
+## Como adicionar limite de caracteres no `the_content()` do wordpress.
 
 A forma mais fácil e sem a necessidade de criar um filtro ou função.
 
